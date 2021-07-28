@@ -3,3 +3,4 @@ numpy==1.20.1
 Pillow==8.3.1
 pandas
 sklearn
+gunicorn
